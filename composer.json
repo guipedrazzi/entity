@@ -1,0 +1,15 @@
+{
+    "name": "guilherme/entity-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Pedrazzi",
+            "email": "gsppedra@hotmail.com"
+        }
+    ],
+    "require": {}
+}
